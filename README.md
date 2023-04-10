@@ -1,4 +1,4 @@
-# 상명대 Machine Learning 강의
+# 상명대 Machine Learning Mid-Project
 
 <h3>주제 : 지하철 이용자 및 만 65세 이상 이용자에 의한 운송 수입 및 운임 손실 예측</h3>
 
