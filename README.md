@@ -35,7 +35,7 @@
     * Covid - 19에 영향이 있었던 2020년과 2021년 데이터 삭제 후 재학습
 <br><br>
 * **파일 설명**
-  * `Data` 폴더는 현재 사용되는 Excel File
+  * [`Data`](https://github.com/IIIBreakeRIII/ML-SubwayPredict/tree/main/Data) 폴더는 현재 사용되는 Excel File
     * `All_Population.xlsx` 는 사용되지 않음
   * `Dividing_Function_Revenue(Loss).py` 는 운임 수입 및 적자액을 월별, 호선별 전체 이용자수에 비례해 나눈 후 2차원 List로 생성해주는 파일
     * 뒤에 `Covid` 는 코로나 이전 데이터만 불러올 경우에 대한 파일
@@ -56,6 +56,6 @@
 <br><br>
 
 * _**Contributors**_
-  * _Beom_(https://github.com/BeomKung)
-  * _Soyun_(https://github.com/nuyos)
-  * _jin-altf4_(https://github.com/jin-altf4)
+  * [_Beom_](https://github.com/BeomKung)
+  * [_Soyun_](https://github.com/nuyos)
+  * [_jin-altf4_](https://github.com/jin-altf4)
