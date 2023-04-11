@@ -1,6 +1,6 @@
-# Machine Learning Mid-Project
+<h3> Machine Learning Mid-Project </h3>
 
-<h3>주제 : 수도권 지하철 이용자 및 만 65세 이상 이용자에 의한 운임 수입 및 운임 손실 예측</h3>
+<h4>주제 : 수도권 지하철 이용자 및 만 65세 이상 이용자에 의한 운임 수입 및 운임 손실 예측</h4>
 
 <hr>
 
@@ -53,7 +53,7 @@
     * 운임 적자액은 약 8000만원 정도의 오차
 <br><br>
 <hr>
-<br><br>
+<br>
 
 * _**Contributors**_
   * **[_Beom_](https://github.com/BeomKung)**
