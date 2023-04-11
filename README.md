@@ -56,6 +56,6 @@
 <br><br>
 
 * _**Contributors**_
-  * _Beom_(https://github.com/BeomKung){:target="_blank"}
-  * _Soyun_(https://github.com/nuyos){:target="_blank"}
-  * _jin-altf4_(https://github.com/jin-altf4){:target="_blank"}
+  * _Beom_(https://github.com/BeomKung)
+  * _Soyun_(https://github.com/nuyos)
+  * _jin-altf4_(https://github.com/jin-altf4)
