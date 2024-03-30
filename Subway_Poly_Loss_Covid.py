@@ -8,7 +8,7 @@ from sklearn.preprocessing import PolynomialFeatures as PF
 
 from Dividing_Function_Loss_Covid import MonthLoss as ML
 
-Subway = pd.read_excel('Final/Data/Subway_Old_Final_Covid.xlsx', header=0, usecols=[3, 4, 7, 8, 11, 12, 15, 16, 19, 20, 23, 24, 27, 28, 31, 32, 35, 36])
+Subway = pd.read_excel('Data/Subway_Old_Final_Covid.xlsx', header=0, usecols=[3, 4, 7, 8, 11, 12, 15, 16, 19, 20, 23, 24, 27, 28, 31, 32, 35, 36])
 Loss = ML
 
 Subway = np.array(Subway).reshape(-1, 2)

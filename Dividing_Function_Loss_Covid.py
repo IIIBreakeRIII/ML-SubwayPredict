@@ -1,8 +1,8 @@
 import pandas as pd
 import numpy as np
 
-Subway = pd.read_excel('Final/Data/Subway_Old_Final_Covid.xlsx', index_col=0, header=0)
-Loss = pd.read_excel('Final/Data/All_Revenue_Loss_Covid.xlsx', index_col=0, header=0)
+Subway = pd.read_excel('Data/Subway_Old_Final_Covid.xlsx', index_col=0, header=0)
+Loss = pd.read_excel('Data/All_Revenue_Loss_Covid.xlsx', index_col=0, header=0)
 
 index = [2, 6, 10, 14, 18, 22, 26, 30, 34]
 
